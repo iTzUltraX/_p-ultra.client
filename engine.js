@@ -3342,40 +3342,8 @@
             id: "1",
             type: "game",
             code: "glitch-worldwide-f",
-            at: p.glitch('your-server'),
+            at: p.glitch('p-ultra'),
             prefer: !0,
-           // featured: 1, // For Featured Status.
-          },
-          {
-            visible: 0,
-            id: "2",
-            type: "game",
-            code: "glitch-worldwide-f",
-            at: p.glitch('your-server'),
-           // featured: 1, // For Featured Status.
-          },
-          {
-            visible: 0,
-            id: "2",
-            type: "game",
-            code: "glitch-worldwide-f",
-            at: p.glitch('your-server'),
-           // featured: 1, // For Featured Status.
-          },
-          {
-            visible: 0,
-            id: "2",
-            type: "game",
-            code: "glitch-worldwide-f",
-            at: p.glitch('your-server'),
-           // featured: 1, // For Featured Status.
-          },
-          {
-            visible: 0,
-            id: "2",
-            type: "game",
-            code: "glitch-worldwide-f",
-            at: p.glitch('your-server'),
            // featured: 1, // For Featured Status.
           },
         ]
